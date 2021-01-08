@@ -46,7 +46,11 @@ What i have tried -
 Taken from here - https://www.kaggle.com/awsaf49/efficientnetb6-512-cutmixupdropout-tpu-train/notebook
 
 Future Plans    
+
 4. Use Cutmix dropout
+
 5. Use cosine decay
+
 6. Fit the batchnorm of efficientnet to the data
+
 7. Try getting in resnext
