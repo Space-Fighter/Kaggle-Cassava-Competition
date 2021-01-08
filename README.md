@@ -42,7 +42,8 @@ What i have tried -
 
     get_lr_callback(batch_size=BATCH_SIZE, show = True)
 ```
-    Taken from here - [Notebook](https://www.kaggle.com/awsaf49/efficientnetb6-512-cutmixupdropout-tpu-train/notebook)
+
+Taken from here - https://www.kaggle.com/awsaf49/efficientnetb6-512-cutmixupdropout-tpu-train/notebook
 
 Future Plans    
 4. Use Cutmix dropout
